@@ -1,5 +1,7 @@
 # Tic-Tac-Toe Game project with Tkinter GUI
 
+![Tic-Tac-Toe Screenshot](screenshot.png)
+
 This Python project implements a simple Tic-Tac-Toe game with a graphical user interface (GUI) using the Tkinter library. Players can take turns to make moves, and the game checks for a win, draw, or continuation. The game allows players to start a new round or exit the application after each game.
 
 ## How to Play
