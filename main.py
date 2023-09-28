@@ -67,7 +67,7 @@ class TicTacToeGUI:
             display_message(message)
             self.window.quit()
 
-    # Function to display a message when the game ends in a draw
+    #  Function to display a message when the game ends in a draw
     def display_draw(self):
         result = messagebox.askquestion("Game Over", "It's a draw! Want to play again?")
         if result == "yes":
