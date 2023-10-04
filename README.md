@@ -2,6 +2,9 @@
 
 This Python project implements a simple Tic-Tac-Toe game with a graphical user interface (GUI) using the Tkinter library. Players can take turns to make moves, and the game checks for a win, draw, or continuation. The game allows players to start a new round or exit the application after each game.
 
+![tic-tac-toe_1](https://github.com/marspython/Tic-Tac-Toe_game/assets/146045911/8080851f-be35-496e-aa0b-d9bc15b00be8)
+
+
 ## How to Play
 
 - **Objective**: The goal of the game is to be the first to form a line of three of your symbols ('X' or 'O') either horizontally, vertically, or diagonally on the game board.
